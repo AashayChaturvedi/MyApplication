@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="check_box">Accept Terms &amp; Conditions</string>
+</resources>
